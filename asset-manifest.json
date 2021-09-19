@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/eact-deploy/static/css/main.a617e044.chunk.css",
+    "main.js": "/eact-deploy/static/js/main.fc3a415a.chunk.js",
+    "main.js.map": "/eact-deploy/static/js/main.fc3a415a.chunk.js.map",
+    "runtime-main.js": "/eact-deploy/static/js/runtime-main.98cff4ec.js",
+    "runtime-main.js.map": "/eact-deploy/static/js/runtime-main.98cff4ec.js.map",
+    "static/js/2.e01eb256.chunk.js": "/eact-deploy/static/js/2.e01eb256.chunk.js",
+    "static/js/2.e01eb256.chunk.js.map": "/eact-deploy/static/js/2.e01eb256.chunk.js.map",
+    "static/js/3.d2540457.chunk.js": "/eact-deploy/static/js/3.d2540457.chunk.js",
+    "static/js/3.d2540457.chunk.js.map": "/eact-deploy/static/js/3.d2540457.chunk.js.map",
+    "index.html": "/eact-deploy/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/eact-deploy/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e01eb256.chunk.js.LICENSE.txt": "/eact-deploy/static/js/2.e01eb256.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/eact-deploy/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98cff4ec.js",
+    "static/js/2.e01eb256.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.fc3a415a.chunk.js"
+  ]
+}
